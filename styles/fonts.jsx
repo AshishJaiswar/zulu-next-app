@@ -1,5 +1,9 @@
-import { Inter } from "next/font/google";
+import { Karla, Inter } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
+/* Heading, Titles Font */
+const karla = Karla({ weight: "500", subsets: ["latin"] });
 
-export { inter };
+/* Body, Paragraphs Font */
+const inter = Inter({ weight: ["300", "500"], subsets: ["latin"] });
+
+export { karla, inter };
