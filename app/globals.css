@@ -1,20 +1,8 @@
 :root {
   /* Primary Color Pallete */
-  --brand-color: #1ce783;
-  --primary-dark: #272c34;
-  --primary-white: #f2f2f2;
-
-  /* 
-  Grey Pallete class using from Cirrus CSS
-  - grey-000
-  - grey-100
-  - grey-200
-  - grey-300
-  - grey-400
-  - grey-500
-  - grey-600
-  - grey-700
-  */
+  --brand-color: rgb(28, 231, 131);
+  --primary-dark: rgb(39, 44, 52);
+  --primary-white: rgb(242, 242, 242);
 
   /* 
   Fonts
@@ -24,5 +12,5 @@
   *Imported from next/font/google*
   */
 
-  /* Typography using from Cirrus CSS  */
+  /* Typography using from Bootstrap CSS  */
 }

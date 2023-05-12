@@ -1,0 +1,21 @@
+.overlay {
+  background: rgb(47, 47, 47);
+  background: linear-gradient(
+    0deg,
+    rgba(47, 47, 47, 0.7763699229691876) 0%,
+    rgba(0, 0, 36, 0.8379945728291316) 92%
+  );
+}
+
+.offer__title1 {
+  color: var(--brand-color);
+}
+
+.get__started {
+  background-color: var(--brand-color);
+  width: 100%;
+}
+
+.get__started:hover {
+  background-color: tomato;
+}

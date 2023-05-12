@@ -1,0 +1,12 @@
+.nav {
+  z-index: 2;
+}
+
+.image__container {
+  height: 75vh;
+}
+
+.image__container .bg__img {
+  object-fit: cover;
+  z-index: -1;
+}

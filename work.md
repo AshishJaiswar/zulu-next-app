@@ -1,7 +1,7 @@
 # Packages
 
 - axios: API request, response
-- cirrus-ui: CSS framework
+- bootstrap: CSS framework
 
 # Optimizations
 

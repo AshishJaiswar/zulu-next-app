@@ -1,5 +1,5 @@
 import { inter } from "@/styles/fonts";
-import "cirrus-ui";
+import "bootstrap/dist/css/bootstrap.css";
 import "./globals.css";
 
 export const metadata = {
