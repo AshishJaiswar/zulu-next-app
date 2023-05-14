@@ -31,8 +31,9 @@ async function Featured() {
       </p>
       <div className="container d-flex justify-content-center">
         <div className={styles.card__box}>
-          {featured.map((item) => (
+          {featured.map((item, index) => (
             <div
+              key={index}
               className={`card m-2 align-items-center position-relative ${styles.card__item}`}
             >
               <Image

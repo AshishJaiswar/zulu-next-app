@@ -7,8 +7,8 @@ function CardCarousel({ collection_name, content_type, shows }) {
     <>
       <h4 className="text-light text-uppercase mx-5 mb-0">{collection_name}</h4>
       <div className="container my-4 d-flex flex-wrap justify-content-evenly">
-        {shows.map((show) => (
-          <div className={`card m-2  ${styles.card__item}`}>
+        {shows.map((show, index) => (
+          <div key={index} className={`card m-2  ${styles.card__item}`}>
             <Image
               src={show.image}
               className={`card-img-top ${styles.image__hover}`}

@@ -27,8 +27,9 @@ async function TVShows() {
       </header>
       <main className="mb-5">
         <h1 className="text-light text-center fw-bold mb-4">TV SHOWS</h1>
-        {record.map((item) => (
+        {record.map((item, index) => (
           <CardCarousel
+            key={index}
             collection_name={item.collection}
             content_type={item.content_type}
             shows={item.data}
