@@ -7,10 +7,6 @@
   );
 }
 
-.offer__title1 {
-  color: var(--brand-color);
-}
-
 .get__started {
   background-color: var(--brand-color);
   width: 100%;

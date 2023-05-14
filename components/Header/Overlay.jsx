@@ -10,13 +10,11 @@ function Overlay() {
       <div
         className={`w-50 d-flex flex-column justify-content-center align-items-center`}
       >
-        <h6 className={`${styles.offer__title1}`}>DISNEY BUNDLE DUO BASIC</h6>
         <Image src="/zulu-logo.webp" alt="Logo" width="200" height="200" />
-        <h3 className="mb-5">
-          Get Hulu & Disney+, both with ads, for $9.99/month.
-        </h3>
+        <h1 className={`text-center`}>Unlimited movies, TV shows and more</h1>
+        <h4 className="mb-5 text-center">For $9.99/month</h4>
         <button type="button" className={`btn btn-lg ${styles.get__started}`}>
-          GET THEN BOTH
+          Get Started
         </button>
         <Link href="#" className="text-white mt-3">
           Terms apply

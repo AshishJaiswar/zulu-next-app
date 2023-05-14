@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Environment variable setup
+
+- Create `.env.local` file in the root of your directory
+- Add below variables
+
+```
+NEXT_PUBLIC_Master_Key=<Jsonbin API Master Key>
+NEXT_PUBLIC_Access_Key=<Jsonbin API Access Key>
+```
+
+_Use `\` to escape special characters such as $_
+
 ## Getting Started
 
 First, run the development server:

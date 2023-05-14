@@ -1,0 +1,144 @@
+[
+  {
+    "collection_id": 1,
+    "collection": "Featured Movies",
+    "content_type": "Movies",
+    "data": [
+      {
+        "id": 1,
+        "name": "Manifest West",
+        "genre": "Drama",
+        "image": "/movies/manifest.webp"
+      },
+      {
+        "id": 2,
+        "name": "Alone at Night",
+        "genre": "Thiller, Horrer",
+        "image": "/movies/alone.webp"
+      },
+      {
+        "id": 3,
+        "name": "Blood",
+        "genre": "Thiller, Horrer",
+        "image": "/movies/blood.webp"
+      },
+      {
+        "id": 4,
+        "name": "Clock",
+        "genre": "Horrer",
+        "image": "/movies/clock.webp"
+      },
+      {
+        "id": 5,
+        "name": "Next Edit",
+        "genre": "Science Fiction",
+        "image": "/movies/next.webp"
+      },
+      {
+        "id": 6,
+        "name": "Call Jane",
+        "genre": "Drama",
+        "image": "/movies/call.webp"
+      }
+    ]
+  },
+  {
+    "collection_id": 2,
+    "collection": "BlockBuster Movies",
+    "content_type": "Movies",
+    "data": [
+      {
+        "id": 1,
+        "name": "S.W.A.T",
+        "genre": "Drama, Action",
+        "image": "/movies/swat.webp"
+      },
+      {
+        "id": 2,
+        "name": "Perl Harbor",
+        "genre": "Action",
+        "image": "/movies/perl.webp"
+      },
+      {
+        "id": 3,
+        "name": "Home Alone 2: Lost in New York",
+        "genre": "Comedy, Kid",
+        "image": "/movies/home2.webp"
+      },
+      {
+        "id": 4,
+        "name": "Home Alone",
+        "genre": "Comedy",
+        "image": "/movies/home.webp"
+      }
+    ]
+  },
+  {
+    "collection_id": 3,
+    "collection": "Action Movies",
+    "content_type": "Movies",
+    "data": [
+      {
+        "id": 1,
+        "name": "Rise of the Planet of the Apes",
+        "genre": "Action, Adventure",
+        "image": "/movies/rise.webp"
+      },
+      {
+        "id": 2,
+        "name": "The Count of Monte Cristo",
+        "genre": "Drama, History",
+        "image": "/movies/count.webp"
+      },
+      {
+        "id": 3,
+        "name": "Takers",
+        "genre": "Action, Drama",
+        "image": "/movies/taker.webp"
+      },
+      {
+        "id": 4,
+        "name": "Self/Less",
+        "genre": "Thiller, Drama",
+        "image": "/movies/self.webp"
+      }
+    ]
+  },
+  {
+    "collection_id": 4,
+    "collection": "CineMax",
+    "content_type": "Movies",
+    "data": [
+      {
+        "id": 1,
+        "name": "Focus",
+        "genre": "Comedy, Drama",
+        "image": "/movies/focus.webp"
+      },
+      {
+        "id": 2,
+        "name": "Edward Sissorhands",
+        "genre": "Comedy, Drama",
+        "image": "/movies/edward.webp"
+      },
+      {
+        "id": 3,
+        "name": "The Pyramid",
+        "genre": "Thiller, Horrer",
+        "image": "/movies/pyramid.webp"
+      },
+      {
+        "id": 4,
+        "name": "The Grey",
+        "genre": "Action, Drama",
+        "image": "/movies/grey.webp"
+      },
+      {
+        "id": 5,
+        "name": "Kin",
+        "genre": "Science Fiction",
+        "image": "/movies/kin.webp"
+      }
+    ]
+  }
+]
